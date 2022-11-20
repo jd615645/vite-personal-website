@@ -1,0 +1,37 @@
+{
+  "username": "Chieh Tu",
+  "context": "Hi! there",
+  "socialsList": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/jd615645"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/jd615645"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/jd615645"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chieh-tu/"
+    }
+  ],
+  "style": {
+    "backgroundLinerColor": ["#B1B2FF", "#EEF1FF"],
+    "fontColor": "#2c3e50",
+    "profileBorderColor": "#2c3e50",
+    "button": {
+      "backgroundColor": "#2c3e50",
+      "borderColor": "#2c3e50",
+      "fontColor": "#2c3e50",
+      "hover": {
+        "backgroundColor": "#ffffff61",
+        "borderColor": "#2c3e50",
+        "fontColor": "#2c3e50"
+      }
+    }
+  }
+}
